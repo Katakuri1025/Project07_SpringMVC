@@ -1,0 +1,5 @@
+com\bjpowernode\service\impl\UserServiceImpl.class
+com\bjpowernode\service\UserService.class
+com\bjpowernode\pojo\User.class
+com\bjpowernode\controller\UserController.class
+com\bjpowernode\mapper\UserMapper.class
