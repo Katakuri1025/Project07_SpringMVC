@@ -24,6 +24,7 @@
 
     <!--注册xxxmapper.xml文件-->
     <bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">
+        <!--批量注册-->
         <property name="basePackage" value="com.bjpowernode.mapper"></property>
     </bean>
 </beans>
