@@ -18,7 +18,7 @@ import java.util.List;
  * @creat 2022-09-01 21:39
  */
 //@Controller
-@RestController
+@RestController //controller_responseBody
 @CrossOrigin   //支持跨域访问
 @RequestMapping("/user")
 public class UserController {
